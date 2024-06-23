@@ -1,1 +1,1 @@
-http://194.238.17.238/updates/lunaversion.txt
+http://146.19.100.35/updates/lunaversion.txt
